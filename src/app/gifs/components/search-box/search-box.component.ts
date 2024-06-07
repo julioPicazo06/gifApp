@@ -9,7 +9,7 @@ import { GifsService } from '../../services/gifs.service';
 @Component({
   selector: 'gifs-search-box',
   template: `
-    <h5> Buscar </h5>
+    <h5> Buscar 2 </h5>
     <input
       type="text"
       placeholder="Search for gifs"
